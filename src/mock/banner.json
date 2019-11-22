@@ -3,20 +3,24 @@
     "code" : 0,
     "banner_list" : [
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/SvoDG8hGzgJRqyqqDy3M.jpg",
-            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+            "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191122/2019112215543244971_original.png",
+            "imgLink" : "https://shop.vivo.com.cn/index.html"
         },
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/umfjbo8MJzplGtwWvECR.jpg",
-            "imgLink" : "https://www.vmall.com/huawei"
+            "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191122/20191122102836629352_original.png",
+            "imgLink" : "https://shop.vivo.com.cn/index.html"
         },
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/XmPuLTHlBHxaJFMl8Zh9.jpg",
-            "imgLink" : "https://www.vmall.com/product/10086226569988.html"
+            "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191118/20191118162021688621_original.jpg",
+            "imgLink" : "https://shop.vivo.com.cn/index.html"
         },
         {
-            "imgUrl" : "https://res.vmallres.com/pimages//pages/picImages/SvoDG8hGzgJRqyqqDy3M.jpg",
-            "imgLink" : "https://www.vmall.com/product/10086478053817.html"
+            "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191113/20191113212523157386_original.jpg",
+            "imgLink" : "https://shop.vivo.com.cn/index.html"
+        },
+        {
+            "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/20191121105441564405_original.jpg",
+            "imgLink" : "https://shop.vivo.com.cn/index.html"
         }
     ]
 }
