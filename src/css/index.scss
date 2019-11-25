@@ -1,0 +1,54 @@
+
+#banner{
+    height: 523px;
+    .banner_imgs{
+        height: 523px;
+        position: relative;
+        li{
+            @extend #pos-0;
+            display: none;
+            width:100%;
+            &:first-child{
+                display: block;
+            }
+            a{
+                height: 523px;
+                img{
+                    height: 523px;
+                    position: relative;
+                    left: 50%;
+                    margin-left: -(1460px/2);
+                }
+            }
+        }
+    }
+    .banner_dots{
+        width: 300px;
+        position: absolute;
+        left: 50%;
+        transform: translate(-50%,0);
+        bottom: 30px;
+        z-index: 5;
+        li{
+            float: left;
+            width: 42px;
+            height: 4px;
+            margin-right: 10px;
+            background: rgba(255,255,255,.5);
+            cursor: pointer;
+            &.active{
+                height: 4px;
+                background: white;
+            }
+        }
+    }
+    .banner_menu{
+        width: 200px;
+        height: 482px;
+        background: rgba(255,255,255,.65);
+        position: absolute;
+        z-index: 5;
+        left: 0px;
+        top: 20px;
+    }
+}
