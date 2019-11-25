@@ -52,3 +52,40 @@
         top: 20px;
     }
 }
+#phone,#parts{
+    clear: both;
+    ul{
+        width: 1250px;
+        margin-top: 30px;
+        text-align: center;
+        li{
+            float:left;
+            width:293px;
+            height:380px;
+            background:#fff ;
+            margin-right:10px;
+            margin-bottom: 10px;
+            text-align: center;
+            a{
+                @extend #wh-100;
+                img{
+                    // @extend #wh-100;
+                    width: 293px;
+                }
+                h3{
+                    margin-top: 10px;
+                    color: black;
+                }
+                p{
+                    margin-top: 20px;
+                    color: rgb(245, 25, 25);;
+                }
+            }
+        }
+    }
+    h2{
+        font-size:40px;
+        margin:10px;
+        text-align: center;
+    }
+}

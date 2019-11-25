@@ -117,6 +117,42 @@
                 "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190307/20190307144146385531_original.jpg",
                 "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190307/201903071441479114_original.jpg"
             ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/10001680_1573126448051_750x750.png",
+            "goodsId": "7",
+            "goodsName": "S5 8GB+128GB",
+            "goodsPrice": 2698,
+            "chooseColor": [
+                "冰岛恋歌",
+                "星眸黑"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/10001680_1573126448051_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/80/10001680_1573126448051_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/20191121143124455884_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/20191121143124877528_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/2019112114312489632_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/20191121143125736499_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/77/10001477_1568011033880_750x750.png",
+            "goodsId": "8",
+            "goodsName": "NEX 3 8GB+128GB",
+            "goodsPrice": 4498,
+            "chooseColor": [
+                "深空流光",
+                "液态天河"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/77/10001477_1568011033880_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/77/10001477_1568011033880_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190916/20190916170015350546_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190916/20190916170015470568_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190916/20190916170015545759_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190916/20190916170016517158_original.jpg"
+            ]
         }
     ]
 }

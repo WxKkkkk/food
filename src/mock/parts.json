@@ -1,0 +1,138 @@
+{
+    "type": "parts",
+    "title": "精品配件",
+    "code": "0",
+    "goods_list": [
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10001648_1572233231713_750x750.png",
+            "goodsId": "10086466203116",
+            "goodsName": "vivo 双向快充移动电源 ",
+            "goodsPrice": 159,
+            "chooseColor": [
+                "曜夜黑",
+                "星月白",
+                "博雅黑",
+                "云峰白"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10001648_1572233231713_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/48/10001648_1572233231713_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191118/20191118212547276378_original.png",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191118/20191118212601590300_original.png"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/5071_1534845218553hd_bi_750x750.png",
+            "goodsId": "10086370999865",
+            "goodsName": "XE710原装耳机",
+            "goodsPrice": 149,
+            "chooseColor": [
+                "黑色套装",
+                "蓝色套装",
+                "白色套装"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/5071_1534845218553hd_bi_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/71/5071_1534845218553hd_bi_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20180930/2018093015453186183_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20180930/20180930154543296963_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372962_750x750.png",
+            "goodsId": "10086725814724",
+            "goodsName": "vivo TWS Earphone",
+            "goodsPrice": 999,
+            "chooseColor": [
+                "星际蓝",
+                "皓月白"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372962_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/18/10001518_1568635372962_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191114/20191114171937214319_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191114/20191114171936873124_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_750x750.png",
+            "goodsId": "10086612323957",
+            "goodsName": "乐心手环5S",
+            "goodsPrice": 169,
+            "chooseColor": [
+                "星际蓝",
+                "皓月白"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/43/10001543_1569501758666_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190926/20190926204841490389_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190926/20190926204841355818_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/35/5635_1540627442014hd_bi_750x750.png",
+            "goodsId": "553104015",
+            "goodsName": "vivo XE160原装耳机",
+            "goodsPrice": 49,
+            "chooseColor": [
+                "黑色",
+                "白色"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/35/5635_1540627442014hd_bi_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/35/5635_1540627442014hd_bi_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20181027/2018102716070069657_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20181027/20181027160700516670_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/56/5156_1534841763291hd_bi_750x750.png",
+            "goodsId": "553104015",
+            "goodsName": "原装闪充充电器",
+            "goodsPrice": 69,
+            "chooseColor": [
+                "黑色",
+                "白色"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/56/5156_1534841763291hd_bi_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/56/5156_1534841763291hd_bi_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20180913/2018091310293537699_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20180724/20180724175433888497_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1545051009759_750x750.png",
+            "goodsId": "553104015",
+            "goodsName": "飞智 wee 2T游戏手柄",
+            "goodsPrice": 229,
+            "chooseColor": [
+                "潮蓝橘",
+                "午夜蓝"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1545051009759_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/67/10000167_1545051009759_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190619/2019061911515771573_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20181217/20181217205350955241_original.jpg"
+            ]
+        },
+        {
+            "goodsImg": "https://shopstatic.vivo.com.cn/vivoshop/commodity/44/10000444_1550287153298_750x750.png",
+            "goodsId": "553104015",
+            "goodsName": "乔威 移动电源JP90ST",
+            "goodsPrice": 199,
+            "chooseColor": [
+                "黑色",
+                "白色"
+            ],
+            "photoNormal": "https://shopstatic.vivo.com.cn/vivoshop/commodity/44/10000444_1550287153298_750x750.png.webp",
+            "photoLarge": "https://shopstatic.vivo.com.cn/vivoshop/commodity/44/10000444_1550287153298_750x750.png.webp",
+            "goodsInfo": [
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190218/20190218162842672683_original.jpg",
+                "https://shopstatic.vivo.com.cn/vivoshop/commodity/20190218/20190218162842662851_original.jpg"
+            ]
+        }
+    ]
+}
