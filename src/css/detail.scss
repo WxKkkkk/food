@@ -4,10 +4,24 @@
         height: 515px;
         position: relative;
         .detail_gallery_normal{
+            width: 515px;
+            height: 515px;
             position: relative;
             @extend #pos-0;
             img{
                 @extend #wh-100;
+            }
+            span{
+                display: block;
+                width: 200px;
+                height: 200px;
+                position: absolute;
+                top: 0;
+                left: 0;
+                z-index: 5;
+                background: rgba(0,0,0,0.4);
+                // background: black;
+                display: none;
             }
         }
         .detail_gallery_larger{
@@ -15,9 +29,17 @@
             left: 515px;
             top: 0;
             display: none;
+            width: 350px;
+            height: 350px;
+            overflow: hidden;
+            border:1px black solid;
+            background: white;
             img{
                 width: 600px;
                 height: 600px;
+                position: absolute;
+                left: 0px;
+            top: 0;
             }
         }
     }
