@@ -1,0 +1,46 @@
+#register{
+    @extend #wh-100;
+    // background: rgb(247, 247, 247);
+    .register_box{
+        width: 860px;
+        height: 670px;
+        background: white;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%,-50%);
+        .register_title{
+            padding-top: 100px;
+            text-align: center;
+            img{
+                margin-left: 350px;
+                width: 160px;
+                margin-bottom: 50px;
+            }
+            h1{
+                font-size: 22px;
+                color: #000;
+                text-align: center;
+            }
+        }
+        .register_input{
+            // text-align: center;
+            margin-top: 80px;
+            margin-left: 250px;
+            input{
+                width: 360px;
+                height: 48px;
+                display: block;
+                font-size: 20px;
+                margin-bottom: 20px;
+                padding-left: 10px;
+            }
+            input:last-of-type{
+                width: 372px;
+                background: #456fff;
+                color: white;
+                border: none;
+            }
+        }
+    }
+}
