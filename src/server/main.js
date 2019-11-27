@@ -19,9 +19,13 @@ define([
         })
         return promise
     }
+    function isLogin(){
+        return $.ajax('/foodlogin/login.php');
+    }
     return{
         getBannerData,
         getBookData,
-        getDetailData
+        getDetailData,
+        isLogin
     }
 });

@@ -1,8 +1,11 @@
 define([
     'jquery',
     '../server/main',
-    './modules/cartStorage'
-], function($,{getDetailData},{addCartStorage}) {
+    './modules/cartStorage',
+    './modules/checklogin'
+], function($,{getDetailData},{addCartStorage},{checklogin}
+    ) {
+    checklogin()
     let type=window.location.search.match(/type=([^&]+)/)[1]
     let id=window.location.search.match(/id=([^&]+)/)[1]
     let $detail=$('#detail')

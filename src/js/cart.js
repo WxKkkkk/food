@@ -1,7 +1,9 @@
 define([
     'jquery',
-    './modules/cartStorage'
-], function ($, { setCartStorage, getCartStorage }) {
+    './modules/cartStorage',
+    './modules/checklogin'
+], function ($, { setCartStorage, getCartStorage },{checklogin}) {
+    checklogin()
     let $cart = $('#cart')
     let $cart_list = $cart.find('.cart_list')
     let $cart_title_selectAll = $cart.find('.cart_title_selectAll')

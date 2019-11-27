@@ -65,7 +65,13 @@ function webTask() {
             host: 'localhost',
             port: 3000,
             open: './views/index.html',
-            livereload: true
+            livereload: true,
+            proxies:[
+                {
+                    source:'/foodlogin',
+                    target:'http://localhost/foodlogin'
+                }
+            ] 
         }));
 }
 
