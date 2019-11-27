@@ -65,6 +65,11 @@
                 font-size: 30px;
                 margin-bottom: 20px;
                 margin-left: 25px;
+                a{
+                    @extend #wh-100;
+                    color: black;
+
+                }
             }
         }
     }   

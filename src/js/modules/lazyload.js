@@ -1,7 +1,7 @@
 define(['jquery'], function ($) {
 
     function lazyload() {
-        window.onresize= window.onload=window.onscroll=function(){
+         window.onload=window.onscroll=function(){
             lazy()
         }
         function lazy(){
