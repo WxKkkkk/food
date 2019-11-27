@@ -2,10 +2,12 @@ define([
     'jquery',
     '../server/main',
     './modules/cartStorage',
-    './modules/checklogin'
-], function($,{getDetailData},{addCartStorage},{checklogin}
+    './modules/checklogin',
+    './modules/celan'
+], function($,{getDetailData},{addCartStorage},{checklogin},{hungBarMove}
     ) {
     checklogin()
+    hungBarMove()
     let type=window.location.search.match(/type=([^&]+)/)[1]
     let id=window.location.search.match(/id=([^&]+)/)[1]
     let $detail=$('#detail')

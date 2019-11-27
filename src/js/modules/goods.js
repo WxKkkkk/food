@@ -10,8 +10,7 @@ define([
                     return `
                         <li>
                             <a href="./detail.html?type=${type}&id=${v.goodsId}">
-                                <img src="${v.goodsImg}"
-                                    alt="">
+                                <img src="" alt="" data-src="${v.goodsImg}">
                                 <h3>${v.goodsName}</h3>
                                 <p>￥ ${v.goodsPrice}.00</p>
                             </a>

@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11474196",
+      "name": "cart- full",
+      "font_class": "cart-full",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    },
+    {
+      "icon_id": "11474273",
+      "name": "help",
+      "font_class": "help",
+      "unicode": "e6f7",
+      "unicode_decimal": 59127
+    },
+    {
+      "icon_id": "11474350",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e705",
+      "unicode_decimal": 59141
+    },
+    {
+      "icon_id": "11474366",
+      "name": "Top",
+      "font_class": "Top",
+      "unicode": "e709",
+      "unicode_decimal": 59145
+    }
+  ]
+}

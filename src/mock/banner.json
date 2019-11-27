@@ -4,23 +4,23 @@
     "banner_list" : [
         {
             "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191122/2019112215543244971_original.png",
-            "imgLink" : "https://shop.vivo.com.cn/index.html"
+            "imgLink" : "#"
         },
         {
             "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191122/20191122102836629352_original.png",
-            "imgLink" : "https://shop.vivo.com.cn/index.html"
+            "imgLink" : "#"
         },
         {
             "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191118/20191118162021688621_original.jpg",
-            "imgLink" : "https://shop.vivo.com.cn/index.html"
+            "imgLink" : "#"
         },
         {
             "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191113/20191113212523157386_original.jpg",
-            "imgLink" : "https://shop.vivo.com.cn/index.html"
+            "imgLink" : "#"
         },
         {
             "imgUrl" : "https://shopstatic.vivo.com.cn/vivoshop/commodity/20191121/20191121105441564405_original.jpg",
-            "imgLink" : "https://shop.vivo.com.cn/index.html"
+            "imgLink" : "#"
         }
     ]
 }

@@ -34,8 +34,9 @@ a{ text-decoration: none; color:$default_color;}
     .head-wrap-user{
         line-height: 32px;
         padding-right: 48px;
-        width: 200px;
+        // width: 200px;
         font-size: 12px;
+        
         li:first-of-type{
             float: left;
             margin-right: 18px;
@@ -54,6 +55,9 @@ a{ text-decoration: none; color:$default_color;}
                 color: #848484;
                 transition: 1s;
             }
+        }
+        .logout{
+            cursor: pointer;
         }
         i{
             width: 3px;
@@ -158,7 +162,7 @@ a{ text-decoration: none; color:$default_color;}
                 width: 50px;
                 border: 1px solid black;
                 border-left: none;
-                outline: none;
+                // outline: none;
             }
         }
 
@@ -220,6 +224,52 @@ a{ text-decoration: none; color:$default_color;}
                 color: #333;
                 font-size: 14px;
             }
+        }
+    }
+}
+
+#hungBar{
+    position: fixed;
+    right: 0;
+    top: 550px;
+    
+    .hungBar_list{
+        position: relative;
+        z-index: 100;
+        li{
+            width: 50px;
+            height: 50px;
+            background: white;
+            text-align: center;
+            line-height: 50px;
+            a{
+                display: block;
+                font-size: 35px;
+                color: black;
+                &:hover{
+                    color: red;
+                    transition: .5s;
+                }
+            }
+        }
+        li:last-of-type{
+            display: none;
+        }
+    }
+    .hungBar_list2{
+        position: absolute;
+        top: 0;
+        left:-120px ;
+        li{
+            height: 50px;
+            width: 120px;
+            background: white;
+            font-size: 25px;
+            text-align: center;
+            line-height: 50px;
+            display: none;
+            position: absolute;
+            top: 0;
         }
     }
 }

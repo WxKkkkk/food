@@ -1,8 +1,9 @@
 define([
     'jquery',
     './modules/cartStorage',
-    './modules/checklogin'
-], function ($, { setCartStorage, getCartStorage },{checklogin}) {
+    './modules/checklogin',
+    './modules/celan'
+], function ($, { setCartStorage, getCartStorage },{checklogin},{hungBarMove}) {
     checklogin()
     let $cart = $('#cart')
     let $cart_list = $cart.find('.cart_list')

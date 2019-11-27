@@ -9,7 +9,7 @@ define([
                 let tmp=``
                 if(res){
                     tmp = `
-                    <li>${res}</li>
+                    <li>欢迎，${res}</li>
                     <li class="logout"><a>退出</a></li>
                     `
                 }else{

@@ -6,6 +6,14 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
     <link rel="stylesheet" href="../css/all.css">
+    <script src="../lib/require.js" data-main="../js/register.js"></script>
+    <script>
+        requirejs.config({
+            paths: {
+                "jquery": "../lib/jquery-3.4.1"
+            }
+        })
+    </script>
 </head>
 <body style="background: rgb(247, 247, 247);">
     <div id="register">
@@ -16,8 +24,8 @@
             </div>
             <div class="register_input">
                 <input type="text" name="username" id="username" placeholder="请输入用户名">
-                <input type="text" name="password" id="password" placeholder="请输入密码">
-                <input type="submit" name="submit" value="注册">
+                <input type="password" name="password" id="password" placeholder="请输入密码">
+                <input type="submit" value="注册" class="btn">
             </div>
         </div>
     </div>
